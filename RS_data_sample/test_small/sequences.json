@@ -1,0 +1,2059 @@
+{
+  "n_sequences": 158,
+  "sequences": {
+    "sequence_1": {
+      "category": "train",
+      "n_scenes": 4658,
+      "length": 86.538,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_2": {
+      "category": "train",
+      "n_scenes": 7656,
+      "length": 141.751,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_3": {
+      "category": "train",
+      "n_scenes": 1665,
+      "length": 30.963,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_4": {
+      "category": "train",
+      "n_scenes": 1563,
+      "length": 28.979,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_5": {
+      "category": "validation",
+      "n_scenes": 4058,
+      "length": 75.415,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_6": {
+      "category": "validation",
+      "n_scenes": 3735,
+      "length": 69.423,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_7": {
+      "category": "train",
+      "n_scenes": 6214,
+      "length": 116.055,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_8": {
+      "category": "train",
+      "n_scenes": 3969,
+      "length": 73.853,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_9": {
+      "category": "train",
+      "n_scenes": 4757,
+      "length": 88.913,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_10": {
+      "category": "train",
+      "n_scenes": 11533,
+      "length": 214.348,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_11": {
+      "category": "train",
+      "n_scenes": 1567,
+      "length": 29.355,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_12": {
+      "category": "train",
+      "n_scenes": 2357,
+      "length": 44.1,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_13": {
+      "category": "train",
+      "n_scenes": 2279,
+      "length": 42.647,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_14": {
+      "category": "validation",
+      "n_scenes": 2108,
+      "length": 39.399,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_15": {
+      "category": "train",
+      "n_scenes": 1070,
+      "length": 19.992,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_16": {
+      "category": "train",
+      "n_scenes": 1068,
+      "length": 19.956,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_17": {
+      "category": "train",
+      "n_scenes": 709,
+      "length": 13.221,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_18": {
+      "category": "train",
+      "n_scenes": 980,
+      "length": 18.276,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_19": {
+      "category": "validation",
+      "n_scenes": 4602,
+      "length": 84.744,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_20": {
+      "category": "train",
+      "n_scenes": 7869,
+      "length": 144.742,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_21": {
+      "category": "train",
+      "n_scenes": 5810,
+      "length": 106.884,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_22": {
+      "category": "train",
+      "n_scenes": 8253,
+      "length": 152.005,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_23": {
+      "category": "train",
+      "n_scenes": 6821,
+      "length": 125.864,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_24": {
+      "category": "validation",
+      "n_scenes": 5769,
+      "length": 106.487,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_25": {
+      "category": "train",
+      "n_scenes": 7417,
+      "length": 137.242,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_26": {
+      "category": "train",
+      "n_scenes": 6377,
+      "length": 117.957,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_27": {
+      "category": "train",
+      "n_scenes": 8282,
+      "length": 153.225,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_28": {
+      "category": "train",
+      "n_scenes": 11371,
+      "length": 210.522,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_29": {
+      "category": "train",
+      "n_scenes": 7012,
+      "length": 130.14,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_30": {
+      "category": "train",
+      "n_scenes": 4326,
+      "length": 79.952,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_31": {
+      "category": "validation",
+      "n_scenes": 1519,
+      "length": 28.009,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_32": {
+      "category": "train",
+      "n_scenes": 6375,
+      "length": 117.432,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_33": {
+      "category": "train",
+      "n_scenes": 7060,
+      "length": 130.145,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_34": {
+      "category": "train",
+      "n_scenes": 5057,
+      "length": 93.544,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_35": {
+      "category": "train",
+      "n_scenes": 734,
+      "length": 13.738,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_36": {
+      "category": "train",
+      "n_scenes": 1819,
+      "length": 34.314,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_37": {
+      "category": "train",
+      "n_scenes": 4989,
+      "length": 93.141,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_38": {
+      "category": "train",
+      "n_scenes": 3024,
+      "length": 57.069,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_39": {
+      "category": "train",
+      "n_scenes": 3881,
+      "length": 72.485,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_40": {
+      "category": "train",
+      "n_scenes": 3001,
+      "length": 55.588,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_41": {
+      "category": "train",
+      "n_scenes": 4626,
+      "length": 86.445,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_42": {
+      "category": "validation",
+      "n_scenes": 4421,
+      "length": 82.337,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_43": {
+      "category": "train",
+      "n_scenes": 5941,
+      "length": 110.395,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_44": {
+      "category": "train",
+      "n_scenes": 4524,
+      "length": 84.045,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_45": {
+      "category": "train",
+      "n_scenes": 6998,
+      "length": 131.57,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_46": {
+      "category": "train",
+      "n_scenes": 4794,
+      "length": 88.486,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_47": {
+      "category": "train",
+      "n_scenes": 4819,
+      "length": 88.957,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_48": {
+      "category": "validation",
+      "n_scenes": 5006,
+      "length": 93.96,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_49": {
+      "category": "train",
+      "n_scenes": 1595,
+      "length": 29.703,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_50": {
+      "category": "train",
+      "n_scenes": 1051,
+      "length": 19.485,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_51": {
+      "category": "train",
+      "n_scenes": 1888,
+      "length": 35.433,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_52": {
+      "category": "train",
+      "n_scenes": 1572,
+      "length": 29.562,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_53": {
+      "category": "validation",
+      "n_scenes": 1510,
+      "length": 28.334,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_54": {
+      "category": "train",
+      "n_scenes": 975,
+      "length": 18.373,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_55": {
+      "category": "train",
+      "n_scenes": 1411,
+      "length": 26.363,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_56": {
+      "category": "train",
+      "n_scenes": 4819,
+      "length": 90.173,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_57": {
+      "category": "train",
+      "n_scenes": 4767,
+      "length": 89.007,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_58": {
+      "category": "validation",
+      "n_scenes": 7443,
+      "length": 136.439,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_59": {
+      "category": "train",
+      "n_scenes": 2584,
+      "length": 47.741,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_60": {
+      "category": "train",
+      "n_scenes": 13850,
+      "length": 256.82,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_61": {
+      "category": "train",
+      "n_scenes": 3957,
+      "length": 73.268,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_62": {
+      "category": "train",
+      "n_scenes": 6565,
+      "length": 121.923,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_63": {
+      "category": "validation",
+      "n_scenes": 4760,
+      "length": 88.46,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_64": {
+      "category": "train",
+      "n_scenes": 6763,
+      "length": 127.925,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_65": {
+      "category": "train",
+      "n_scenes": 6703,
+      "length": 125.697,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_66": {
+      "category": "train",
+      "n_scenes": 4983,
+      "length": 92.464,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_67": {
+      "category": "train",
+      "n_scenes": 7806,
+      "length": 146.58,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_68": {
+      "category": "validation",
+      "n_scenes": 6111,
+      "length": 112.439,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_69": {
+      "category": "train",
+      "n_scenes": 9509,
+      "length": 175.785,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_70": {
+      "category": "train",
+      "n_scenes": 7722,
+      "length": 140.8,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_71": {
+      "category": "train",
+      "n_scenes": 5298,
+      "length": 96.227,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_72": {
+      "category": "train",
+      "n_scenes": 7056,
+      "length": 130.396,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_73": {
+      "category": "validation",
+      "n_scenes": 7030,
+      "length": 128.587,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_74": {
+      "category": "train",
+      "n_scenes": 5616,
+      "length": 102.136,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_75": {
+      "category": "train",
+      "n_scenes": 4498,
+      "length": 83.386,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_76": {
+      "category": "train",
+      "n_scenes": 3721,
+      "length": 69.341,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_77": {
+      "category": "train",
+      "n_scenes": 4305,
+      "length": 80.369,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_78": {
+      "category": "train",
+      "n_scenes": 1371,
+      "length": 25.615,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_79": {
+      "category": "validation",
+      "n_scenes": 3689,
+      "length": 69.033,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_80": {
+      "category": "train",
+      "n_scenes": 4884,
+      "length": 91.044,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_81": {
+      "category": "train",
+      "n_scenes": 747,
+      "length": 13.887,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_82": {
+      "category": "train",
+      "n_scenes": 4205,
+      "length": 78.329,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_83": {
+      "category": "train",
+      "n_scenes": 1585,
+      "length": 29.432,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_84": {
+      "category": "train",
+      "n_scenes": 4209,
+      "length": 78.408,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_85": {
+      "category": "validation",
+      "n_scenes": 2550,
+      "length": 47.561,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_86": {
+      "category": "train",
+      "n_scenes": 2442,
+      "length": 45.555,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_87": {
+      "category": "train",
+      "n_scenes": 6073,
+      "length": 113.439,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_88": {
+      "category": "train",
+      "n_scenes": 7016,
+      "length": 131.547,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_89": {
+      "category": "validation",
+      "n_scenes": 4360,
+      "length": 81.66,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_90": {
+      "category": "train",
+      "n_scenes": 1498,
+      "length": 27.995,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_91": {
+      "category": "train",
+      "n_scenes": 6306,
+      "length": 118.629,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_92": {
+      "category": "train",
+      "n_scenes": 1988,
+      "length": 37.43,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_93": {
+      "category": "validation",
+      "n_scenes": 6023,
+      "length": 112.673,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_94": {
+      "category": "train",
+      "n_scenes": 8760,
+      "length": 163.743,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_95": {
+      "category": "train",
+      "n_scenes": 5639,
+      "length": 105.37,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_96": {
+      "category": "train",
+      "n_scenes": 1068,
+      "length": 19.929,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_97": {
+      "category": "train",
+      "n_scenes": 8522,
+      "length": 159.631,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_98": {
+      "category": "train",
+      "n_scenes": 6253,
+      "length": 117.137,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_99": {
+      "category": "validation",
+      "n_scenes": 8846,
+      "length": 165.478,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_100": {
+      "category": "train",
+      "n_scenes": 7139,
+      "length": 132.95,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_101": {
+      "category": "train",
+      "n_scenes": 7219,
+      "length": 135.622,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_102": {
+      "category": "train",
+      "n_scenes": 6070,
+      "length": 113.568,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_103": {
+      "category": "train",
+      "n_scenes": 2053,
+      "length": 38.098,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_104": {
+      "category": "train",
+      "n_scenes": 6989,
+      "length": 131.788,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_105": {
+      "category": "train",
+      "n_scenes": 6478,
+      "length": 121.831,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_106": {
+      "category": "train",
+      "n_scenes": 6129,
+      "length": 114.983,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_107": {
+      "category": "validation",
+      "n_scenes": 9294,
+      "length": 174.413,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_108": {
+      "category": "train",
+      "n_scenes": 8097,
+      "length": 152.704,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_109": {
+      "category": "train",
+      "n_scenes": 9810,
+      "length": 185.652,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_110": {
+      "category": "train",
+      "n_scenes": 9277,
+      "length": 174.366,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_111": {
+      "category": "validation",
+      "n_scenes": 1681,
+      "length": 31.419,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_112": {
+      "category": "train",
+      "n_scenes": 10041,
+      "length": 187.853,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_113": {
+      "category": "train",
+      "n_scenes": 10813,
+      "length": 202.849,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_114": {
+      "category": "train",
+      "n_scenes": 4495,
+      "length": 84.397,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_115": {
+      "category": "train",
+      "n_scenes": 8425,
+      "length": 157.538,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_116": {
+      "category": "train",
+      "n_scenes": 1206,
+      "length": 22.515,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_117": {
+      "category": "train",
+      "n_scenes": 13156,
+      "length": 245.361,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_118": {
+      "category": "train",
+      "n_scenes": 11141,
+      "length": 208.308,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_119": {
+      "category": "train",
+      "n_scenes": 6806,
+      "length": 128.0,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_120": {
+      "category": "train",
+      "n_scenes": 2906,
+      "length": 54.221,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_121": {
+      "category": "train",
+      "n_scenes": 1224,
+      "length": 22.865,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_122": {
+      "category": "validation",
+      "n_scenes": 903,
+      "length": 16.659,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_123": {
+      "category": "train",
+      "n_scenes": 3113,
+      "length": 58.422,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_124": {
+      "category": "train",
+      "n_scenes": 7054,
+      "length": 130.844,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_125": {
+      "category": "train",
+      "n_scenes": 4571,
+      "length": 85.043,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_126": {
+      "category": "train",
+      "n_scenes": 7249,
+      "length": 135.414,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_127": {
+      "category": "train",
+      "n_scenes": 6901,
+      "length": 129.244,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_128": {
+      "category": "train",
+      "n_scenes": 8148,
+      "length": 153.937,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_129": {
+      "category": "train",
+      "n_scenes": 6354,
+      "length": 119.84,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_130": {
+      "category": "validation",
+      "n_scenes": 7383,
+      "length": 137.869,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_131": {
+      "category": "train",
+      "n_scenes": 2962,
+      "length": 55.616,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_132": {
+      "category": "train",
+      "n_scenes": 5996,
+      "length": 112.877,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_133": {
+      "category": "train",
+      "n_scenes": 7426,
+      "length": 139.353,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_134": {
+      "category": "train",
+      "n_scenes": 5145,
+      "length": 96.896,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_135": {
+      "category": "validation",
+      "n_scenes": 5323,
+      "length": 99.611,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_136": {
+      "category": "train",
+      "n_scenes": 2483,
+      "length": 46.055,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_137": {
+      "category": "train",
+      "n_scenes": 7292,
+      "length": 136.915,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_138": {
+      "category": "validation",
+      "n_scenes": 7762,
+      "length": 143.973,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_139": {
+      "category": "train",
+      "n_scenes": 4538,
+      "length": 84.282,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_140": {
+      "category": "train",
+      "n_scenes": 8635,
+      "length": 160.819,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_141": {
+      "category": "train",
+      "n_scenes": 4326,
+      "length": 80.655,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_142": {
+      "category": "train",
+      "n_scenes": 9852,
+      "length": 182.977,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_143": {
+      "category": "train",
+      "n_scenes": 3588,
+      "length": 66.432,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_144": {
+      "category": "train",
+      "n_scenes": 7377,
+      "length": 136.661,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_145": {
+      "category": "train",
+      "n_scenes": 4829,
+      "length": 89.671,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_146": {
+      "category": "train",
+      "n_scenes": 8119,
+      "length": 149.417,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_147": {
+      "category": "validation",
+      "n_scenes": 6112,
+      "length": 113.238,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_148": {
+      "category": "validation",
+      "n_scenes": 6011,
+      "length": 110.341,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_149": {
+      "category": "train",
+      "n_scenes": 15341,
+      "length": 281.87,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_150": {
+      "category": "train",
+      "n_scenes": 2726,
+      "length": 50.0,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_151": {
+      "category": "train",
+      "n_scenes": 3691,
+      "length": 67.698,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_152": {
+      "category": "train",
+      "n_scenes": 5131,
+      "length": 94.33,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_153": {
+      "category": "validation",
+      "n_scenes": 4040,
+      "length": 74.317,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_154": {
+      "category": "train",
+      "n_scenes": 5641,
+      "length": 103.83,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_155": {
+      "category": "validation",
+      "n_scenes": 5893,
+      "length": 108.539,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_156": {
+      "category": "train",
+      "n_scenes": 5162,
+      "length": 95.12,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_157": {
+      "category": "train",
+      "n_scenes": 6147,
+      "length": 113.173,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    },
+    "sequence_158": {
+      "category": "train",
+      "n_scenes": 804,
+      "length": 14.526,
+      "sensors": [
+        "radar_1",
+        "radar_2",
+        "radar_3",
+        "radar_4",
+        "odometry",
+        "camera"
+      ]
+    }
+  }
+}

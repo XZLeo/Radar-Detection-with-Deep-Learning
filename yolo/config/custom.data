@@ -1,0 +1,9 @@
+classes= 6
+train=../RadarScenes/train
+train_snip=./static/train.txt
+valid=..RadarScenes/validation
+valid_snip=./static/validation.txt
+test=../RadarScenes/test
+test_snip=./static/test.txt
+names=./yolo/config/classes.names
+

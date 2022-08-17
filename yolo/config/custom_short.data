@@ -1,0 +1,10 @@
+classes= 6
+train=RS_data_sample/train_small
+train_snip=static/train_small.txt
+valid=RS_data_sample/test_small
+valid_snip=static/test_small.txt
+test=RS_data_sample/test_small
+test_snip=static/test_small.txt
+names=./yolo/config/classes.names
+
+

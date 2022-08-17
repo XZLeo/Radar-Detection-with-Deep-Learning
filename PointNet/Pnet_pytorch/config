@@ -1,0 +1,14 @@
+# minimum number of neighbours surrounding a point
+# to be considered a cluster point
+mp_car = 10
+mp_ped = 7
+mp_pgrp = 8
+mp_bike = 8
+mp_lcar = 14
+
+# epsilons for the e-region
+e_xyv = 4.0
+e_v = 2.02
+
+#v_r threshold for the static/v_r filter
+vr_thresh = 0.16

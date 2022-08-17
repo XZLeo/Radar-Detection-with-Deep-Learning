@@ -1,0 +1,9 @@
+classes= 6
+train=/dataset/RadarScenes/train_full
+train_snip=static/train_full.txt
+test=/home/s0001516/thesis/dataset/RadarScenes_GPU/test
+test_snip=static/test.txt
+names=./yolo/config/classes.names
+
+
+
